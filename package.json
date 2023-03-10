@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "serverless": "^3.28.1"
+  },
+  "name": "zapgpt"
+}
